@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yyykkj
 - 👀 I’m interested in broad field of Biotechnology.
 - 🌱 I’m currently majoring in Bio&Brain engineering at KAIST in Republic of Korea.
-- 💞️ I’m looking to collaborate on anything that I can learn from
+- 💞️ I’m looking to collaborate on anything that I can learn something from
 - 📫 How to reach me :through Github
 
 <!---
